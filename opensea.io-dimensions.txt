@@ -1,0 +1,3 @@
+Logo image - 350x350
+Feature image - 600x400
+Banner image - 1400x350
